@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele...
 - ⚡ Trabalho com front-end
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/Luiz4us8av6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz4us8av6&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz4us8av6&layout=compact&langs_count=7&theme=dark"/>
