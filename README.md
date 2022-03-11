@@ -4,7 +4,7 @@
 - 🌱 Estudando react JS
 - 💬 E-mail: luizg8stavo17@gmail.com
 - 😄 Pronouns: ele/dele...
-- ⚡ Trabalho com front-end
+- ⚡ Trabalho com Front-End
 
 <div align="center" style="display: flex">
   <a href="https://github.com/Luiz4us8av6">
