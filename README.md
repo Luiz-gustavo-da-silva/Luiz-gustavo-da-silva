@@ -21,6 +21,7 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
   <hr>
+  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Luiz4us8av6&theme=gotham)
   <div> 
   <a href="https://instagram.com/luiz._.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizg8stavo17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
