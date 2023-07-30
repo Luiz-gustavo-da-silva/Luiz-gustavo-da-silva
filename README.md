@@ -15,13 +15,21 @@ Software Engineer
     </a>
 </div>
 
+<div align="left">
+
+<p>
 Olá,
-
+</p>
+<p>
 Meu nome é Luiz Gustavo! Sou programador desde os 15 anos e tenho grande interesse no desenvolvimento web.
-
+</p>
+<p>
 Iniciei minha jornada na programação em 2016, quando entrei no curso técnico de Informática do Instituto Federal do Rio Grande do Norte. Desde então, não parei mais. Foi lá que desenvolvi interesse pela programação, principalmente na área do desenvolvimento web.
-
+</p>
+<p>
 Atualmente, sou desenvolvedor front-end na EJECT - Empresa Júnior da Escola de Ciências e Tecnologia. Ocupo esse cargo há mais de 1 ano. Nele, além de desempenhar atividades de desenvolvimento, já atuei em análise de requisitos, precificação, reuniões de briefing, Scrum Master, entre outros. Além disso, desempenhei o papel de desenvolvedor full-stack em um projeto P&D da Petrobras no IMD (Instituto Metrópole Digital).
+</p>
+</div>
 
 <!-- > cv [aqui](https://www.cvkeep.com/cv/266e7beb0afd30a7b2199fd713d7684b) 📄 -->
 
