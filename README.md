@@ -21,7 +21,7 @@ Software Engineer
 Olá,
 </p>
 <p>
-Meu nome é Luiz Gustavo! Sou programador desde os 15 anos e tenho grande interesse no desenvolvimento web.
+Meu nome é Luiz Gustavo! Sou programador desenvolvedor web.
 </p>
 <p>
 Iniciei minha jornada na programação em 2016, quando entrei no curso técnico de Informática do Instituto Federal do Rio Grande do Norte. Desde então, não parei mais. Foi lá que desenvolvi interesse pela programação, principalmente na área do desenvolvimento web.
