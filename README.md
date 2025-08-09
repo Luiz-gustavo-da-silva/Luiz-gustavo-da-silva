@@ -3,7 +3,7 @@
 <div align="center">
 Software Engineer
     
-*JavaScript | React JS | Angular | .NEt | C#*
+*JavaScript | React JS | Angular | .NET | C#*
 
 </div>
 
