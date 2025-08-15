@@ -32,8 +32,7 @@ Iniciei minha jornada na programação em 2016, quando entrei no curso técnico 
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriiz-oliveiraa/)](https://www.linkedin.com/in/luiz-gustavo-silva-151395205/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/l__.jpg)
+[![Linkedin Badge]](https://www.linkedin.com/in/luiz-gustavo-silva-151395205/)
 
  </div>
 
