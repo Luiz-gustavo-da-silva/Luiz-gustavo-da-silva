@@ -32,8 +32,6 @@ Iniciei minha jornada na programação em 2016, quando entrei no curso técnico 
 
 <div align="center">
 
-[![Linkedin Badge]](https://www.linkedin.com/in/luiz-gustavo-silva-151395205/)
-
  </div>
 
 ---
